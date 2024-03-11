@@ -1,0 +1,97 @@
+
+.santa-fe-gif{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    
+}
+.header-santa-fe{
+    background-color: red;
+    margin: -30px;
+    position: relative;
+    height: 250px;
+}
+hr{
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+h1{
+    text-align: center;
+    color: #F45050;
+    font-weight: 900;
+    font-size: 35pt;
+}
+body{
+    background: #F0F0F0;
+    margin: 30px;
+    
+}
+h2{
+    font-size: 25pt;
+    color: #3C486B;
+    font-weight: 500;
+}
+h3,h4,h5{
+    color: #3C486B;
+    font-weight: 500;
+}
+h3{
+    font-size: 20pt;
+}
+h4{
+    font-size: 15pt;
+}
+
+p{
+    line-height: 25px;
+    font-size: 15pt;
+}
+.campeonatos p{
+    font-size: 15pt;
+}
+table,th,td{
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+}
+marquee{
+    font-size: 40pt;
+    background-color: #F9D949;
+    color: #3C486B;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: -30px;
+}
+img{
+    width: 200px;
+    height: 270px;
+    float: left; /* Colocar la imagen a la izquierda */
+    margin-right: 10px; /* Espacio entre la imagen y el texto */
+}
+.goleadores p{
+    text-align: justify;
+    
+}
+.nombre-goleador {
+    overflow: hidden; /* Clearfix para limpiar los floats */
+}
+.historia {
+    overflow: hidden; /* Limpiar los floats */
+}
+.historia p{
+    margin-top: -5px;
+}
+.hr2{
+    border-top: 5px dotted gray;
+}
+.estadio-img{
+    width: 300px;
+    height: 250px;
+}
+.fin h3{
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+}
